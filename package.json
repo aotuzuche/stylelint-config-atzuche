@@ -1,0 +1,28 @@
+{
+  
+  "name": "stylelint-config-atzuche",
+  "version": "1.0.0",
+  "main": "index.js",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aotuzuche/stylelint-config-atzuche.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aotuzuche/stylelint-config-atzuche/issues"
+  },
+  "homepage": "https://github.com/aotuzuche/stylelint-config-atzuche#readme",
+  "description": "",
+  "dependencies": {
+    "stylelint-config-standard": "^20.0.0"
+  }
+}
