@@ -2,6 +2,7 @@
 
 module.exports = {
   extends: 'stylelint-config-standard',
+  ignoreFiles: ["**/*.tsx", "**/*.jsx"],
   rules: {
     'font-family-no-missing-generic-family-keyword': null,
     'no-descending-specificity': null,
