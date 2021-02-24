@@ -8,13 +8,13 @@ module.exports = {
     'function-url-quotes': 'always',
     'selector-class-pattern': '^[a-z0-9_-]+$',
 
-    indentation: null,
+    indentation: 2,
     linebreaks: null,
     'max-line-length': null,
 
     'function-comma-newline-after': null,
     'function-comma-newline-before': null,
-    'function-comma-space-after': null,
+    'function-comma-space-after': 'always',
     'function-comma-space-before': null,
     'function-max-empty-lines': 0,
     'function-parentheses-newline-inside': null,
@@ -53,7 +53,7 @@ module.exports = {
     'block-opening-brace-newline-after': null,
     'block-opening-brace-newline-before': null,
     'block-opening-brace-space-after': null,
-    'block-opening-brace-space-before': null,
+    'block-opening-brace-space-before': 'always',
     'selector-attribute-brackets-space-inside': 'never',
 
     // prettier doesnt care about this space
