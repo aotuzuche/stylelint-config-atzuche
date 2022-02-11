@@ -97,9 +97,6 @@ module.exports = {
     // 'unicode-bom': null,
     'number-leading-zero': null,
 
-    // prettier lowercases hex colors
-    'color-hex-case': null,
-
     // prettier removes trailing zeros
     'number-no-trailing-zeros': null,
 
