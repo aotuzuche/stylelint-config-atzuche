@@ -7,6 +7,7 @@ module.exports = {
     'selector-type-no-unknown': null,
     'function-url-quotes': 'always',
     'selector-class-pattern': '^[a-z0-9_-]+$',
+    'color-hex-case': 'lower',
 
     indentation: 2,
     linebreaks: null,
